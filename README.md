@@ -5,7 +5,7 @@
   <h1> Aabir El ouadghiri El hassani </h1>
   
   <p>
-    Cybersecurity student at <b>EMSI</b> (Ecole Marocaine des Sciences de l'Ingénieur). 
+   Student at <b>EMSI</b> (Ecole Marocaine des Sciences de l'Ingénieur). 
   
   </p>
   
