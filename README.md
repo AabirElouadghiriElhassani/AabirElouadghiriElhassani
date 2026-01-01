@@ -2,13 +2,11 @@
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=300&lines=Cybersecurity+Student" alt="Typing SVG" />
 
-  <h1>👋 Hi, I'm Aabir</h1>
+  <h1> Aabir El ouadghiri El hassani </h1>
   
   <p>
     Cybersecurity student at <b>EMSI</b> (Ecole Marocaine des Sciences de l'Ingénieur). 
-    Skilled in ethical hacking, secure coding, and full-stack web development. 
-    Proficient with Ubuntu, VSCode, Code::Blocks, SQL, PHP backend, frontend (HTML/CSS/JS), and systems programming (C/C++). 
-    Experienced in software conception, UML modeling, and database design. Building secure apps daily!
+  
   </p>
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aabir)
@@ -38,15 +36,6 @@
   <a href="https://linkedin.com/in/aabir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=aabir&style=flat-square&color=blue" alt="Profile views counter"/>
-  <br><sub><i>Thanks for visiting! Open to cybersecurity collabs. ⭐</i></sub>
-</div>
-
----
-<div align="center">© 2026 Aabir. Built with ❤️ using GitHub README.md</div>
 
 
----
-<div align="center">© 2026 Aabir. Built with ❤️ using GitHub README.md</div>
 
